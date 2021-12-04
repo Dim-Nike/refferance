@@ -39,7 +39,7 @@ function App() {
       <AppBar position="static">
         <Toolbar>
           <Typography variant="h6" className={classes.title}>
-            Real App
+            Reference
           </Typography>
           <div className={classes.rightToolbar}>
             <Button color="inherit" component={Link} to="/">
